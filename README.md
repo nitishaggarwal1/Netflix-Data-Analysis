@@ -65,8 +65,9 @@ The dataset `netflix_titles.csv` includes:
 
 ## 📌 How to Run
 1. Clone the repository:
+```bash
 git clone https://github.com/yourusername/Netflix-Data-Analysis.git
-2. Install Dependencies
+2. Install Dependencies:
 pip install -r requirements.txt
 3. Open the notebook and run analyses:
 jupyter notebook notebooks/netflix_analysis.ipynb
