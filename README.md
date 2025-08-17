@@ -68,11 +68,4 @@ The dataset `netflix_titles.csv` includes:
 ```bash
 git clone https://github.com/yourusername/Netflix-Data-Analysis.git
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-3. Open the notebook and run analyses:
-```bash
-jupyter notebook notebooks/netflix_analysis.ipynb
-
+2. 
